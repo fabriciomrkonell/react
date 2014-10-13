@@ -1,4 +1,1 @@
-react
-=====
-
-Angular > React
+Começando com o React
